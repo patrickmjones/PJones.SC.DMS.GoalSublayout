@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PJones.SC.DMS.GoalSublayout", "WebApplication1\PJones.SC.DMS.GoalSublayout.csproj", "{3502E268-1165-4AE5-8837-60B5768D6EC8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PJones.SC.DMS.GoalSublayout", "PJones.SC.DMS.GoalSublayout\PJones.SC.DMS.GoalSublayout.csproj", "{3502E268-1165-4AE5-8837-60B5768D6EC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
